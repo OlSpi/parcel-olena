@@ -1,0 +1,7 @@
+.modal-flex-column-second  {
+  @media screen and (min-width: 1024px) {
+    justify-content: space-between;
+    flex-direction: column;
+    display: flex;
+  }
+}
